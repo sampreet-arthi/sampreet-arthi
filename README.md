@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="sampreet_arthi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
-<img align="left" alt="sampreet-arthi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sampreet-arthi&show_icons=true&hide_border=true" />
+<img align="left" alt="sampreet-arthi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sampreet-arthi&show_icons=true&&theme=tokyonight&hide_border=true&hide=stars&count_private=true&show_icons=true" />
 
 [website]: https://sampreet-arthi.github.io
 [twitter]: https://twitter.com/sampreet_arthi
