@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I'm a third year double major in CS and Economics at BITS Pilani, Goa Campus 🏫.
-- 🎮 Pretty interested in Reinforcement Learning and it's cool applications in different fields
+## I'm a fourth year double major in CS and Economics at BITS Pilani, Goa Campus 🏫.
+- 🎮 Pretty interested in Computer Vision and Reinforcement Learning and their cool applications in different fields
 - 👯 Looking to collaborate more on Open Source projects :)
 - 💪 Core contributor at [GenRL](https://github.com/SforAiDL/genrl)
 - 💻 Lead organizer for [Hack by the Beach](https://bits-quark.org/hackbythebeach/)
